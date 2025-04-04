@@ -1,0 +1,83 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    background-color: #BED2DE;
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.title-login{
+    font-size: 45px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+
+.label-contraseña{
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.label-usuario{
+    margin-top: 25px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.inputUsuario{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+}
+
+.inputContraseña{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+}
+
+.contain-botonlogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.btnEntrar{
+    width: 50%;
+    padding: 10px;
+    margin-top: 25px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    background-color: #025182;
+    color: white;
+    cursor: pointer;
+}
+
+.pass-forgot{
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+
+.form-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
